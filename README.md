@@ -1,4 +1,4 @@
-# open-figi
+# OpenFIGI Python Client
 
 ## Abstract
 
