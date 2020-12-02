@@ -27,7 +27,7 @@ MULTITHREADING = {
 }
 
 OPENFIGI = {
-    'api_key': '',
+    'api_key': input("Please enter your api key: "),
     'url': 'https://api.openfigi.com/v2/mapping',
     'api_limit': 100,
     'time_sleep': 2,  # seconds
