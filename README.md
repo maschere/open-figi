@@ -2,7 +2,7 @@
 
 ## Abstract
 
-OpenFIGI is an open source service which maintains and provides updated Bloomberg identifiers for almost all the securities which have an ISIN or another market identifier. More information can be found (here)[https://www.openfigi.com/about/aboutus]
+OpenFIGI is an open source service which maintains and provides updated Bloomberg identifiers for almost all the securities which have an ISIN or another market identifier. More information can be found [here](https://www.openfigi.com/about/aboutus)
 
 ## Usage
 
