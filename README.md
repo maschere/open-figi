@@ -10,7 +10,9 @@ found [here](https://www.openfigi.com/about/aboutus)
 
 The package is very easy to use. After the installation you can use it as it follows:
 
-`OpenFIGI("ID_ISIN", ["ISIN1", "ISIN2", "ISIN3", ...])`
+```python
+OpenFIGI("ID_ISIN", ["ISIN1", "ISIN2", "ISIN3", ...])
+```
 
 As soon as you run it you will be prompted to input your API key (please make sure you insert it correctly as there is
 no check on its validity!).
