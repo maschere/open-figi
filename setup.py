@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="OpenFIGIClient-leourb",
+    name="OpenFIGIClient",
     version="1.1.0",
     author="Leonardo Urbano",
     author_email="leonardo.urbano87@libero.it",
