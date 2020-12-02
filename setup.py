@@ -7,11 +7,11 @@ setuptools.setup(
     name="OpenFIGIClient-leourb",
     version="1.1.0",
     author="Leonardo Urbano",
-    author_email="leonardo.urbano@.com",
+    author_email="leonardo.urbano87@libero.it",
     description="A client to query OpenFIGI Database",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="myurl",
+    url="https://tfidi.wordpress.com",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
