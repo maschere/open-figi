@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "r") as fh:
+with open("open_figi/README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
@@ -11,7 +11,7 @@ setuptools.setup(
     description="A client to query OpenFIGI Database",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://tfidi.wordpress.com",
+    url="https://github.com/leourb/open-figi",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
